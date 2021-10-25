@@ -17,4 +17,4 @@ matlabtrotternumber: worst-case empirical results
 
 Mathematica code
 
-   : comparing bounds with and without the Cauchy inequality. See Sec V in the Supplemental MaterialCancel changes
+CvNCdata.nb : comparing bounds with and without the Cauchy inequality. See Sec V in the Supplemental MaterialCancel changes
